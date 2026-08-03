@@ -1,0 +1,14 @@
+# Node & Build artifacts
+node_modules/
+dist/
+build/
+.env
+
+# SQLite Database
+*.sqlite
+*.sqlite-journal
+database.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
